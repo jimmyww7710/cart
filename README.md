@@ -6,8 +6,8 @@ a cart application using React.
 * vite: 4.1.0
 
 ## Setup
-To run this project, install it locally using npm:
-$ npm install
+To run this project, install it locally using npm:\
+$ npm install\
 $ npm run dev
 
 or see demo on: https://jwcart.netlify.app/
